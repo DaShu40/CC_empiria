@@ -1,7 +1,7 @@
 # Cloudflare Pages + Workers configuration
 # https://developers.cloudflare.com/pages/
 
-name = "empiria-advisory"
+name = "empiria"
 compatibility_date = "2025-06-01"
 
 # Pages project — build output served from /dist
